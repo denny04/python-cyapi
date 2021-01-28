@@ -1,4 +1,4 @@
-# Simple example to read creds file, connect to API, and print detections.
+# Simple example to read creds file, connect to API, and add hashes to globalsafelist from a csv. 
 
 from __future__ import print_function
 import json
